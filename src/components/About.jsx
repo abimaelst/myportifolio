@@ -40,10 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text=[17px] max-w-3xl leading-[30px]"
       >
-        I'm a fullstack developer with a knack for crafting awesome web
-        experiences. From creating stunning front-end designs to building robust
-        back-end systems, I bring your ideas to life with a touch of coding
-        magic. Let's collaborate and create something amazing together!
+        Experienced Software Developer adept in front-end, back-end, testing,
+        and software maintenance. Proficient in JavaScript, TypeScript, Vue.js,
+        Nuxt.js, React.js, Next.js, MySQL, PHP, Laravel, and React Native. Self-
+        managing and collaborative, delivering innovative solutions for web and
+        mobile. Passionate about user-centric design and continuous learning.
+        Driven to exceed expectations and contribute to impactful projects.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
