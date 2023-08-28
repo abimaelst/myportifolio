@@ -19,7 +19,7 @@ import {
   tailwind,
   threejs,
   tripguide,
-  typescript,
+  typescript, vue,
   web
 } from '../assets'
 
@@ -55,20 +55,8 @@ const services = [
 
 const technologies = [
   {
-    name: 'HTML 5',
-    icon: html
-  },
-  {
-    name: 'CSS 3',
-    icon: css
-  },
-  {
     name: 'JavaScript',
     icon: javascript
-  },
-  {
-    name: 'Laravel',
-    icon: laravel
   },
   {
     name: 'TypeScript',
@@ -79,12 +67,20 @@ const technologies = [
     icon: reactjs
   },
   {
+    name: 'Vue JS',
+    icon: vue
+  },
+  {
     name: 'Tailwind CSS',
     icon: tailwind
   },
   {
     name: 'Node JS',
     icon: nodejs
+  },
+  {
+    name: 'Laravel',
+    icon: laravel
   },
   {
     name: 'MongoDB',
@@ -97,10 +93,6 @@ const technologies = [
   {
     name: 'Three JS',
     icon: threejs
-  },
-  {
-    name: 'git',
-    icon: git
   },
   {
     name: 'docker',

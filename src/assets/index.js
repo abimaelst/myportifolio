@@ -22,6 +22,7 @@ import typescript from './tech/typescript.png'
 import threejs from './tech/threejs.svg'
 import mysql from './tech/mysql.png'
 import laravel from './tech/laravel.png'
+import vue from './tech/vue.png'
 
 import meta from './company/meta.png'
 import shopify from './company/shopify.png'
@@ -68,5 +69,6 @@ export {
   planner,
   braslimp,
   laravel,
-  mysql
+  mysql,
+  vue
 }
